@@ -10,7 +10,7 @@ def send(title, message):
     print(f"{title}: {message}")
 
 # 获取环境变量 
-def get_env(): 
+def get_env(): http://vs17.bj2ct.u3.ucweb.com:8080/
     # 判断 COOKIE_QUARK是否存在于环境变量 
     if "COOKIE_QUARK" in os.environ: 
         # 读取系统变量以 \n 或 && 分割变量 
